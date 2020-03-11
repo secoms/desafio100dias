@@ -1,0 +1,61 @@
+{
+  "name": "projeto-base-bootstrap-sass",
+  "version": "0.1.0",
+  "description": "projeto-base-bootstrap-sass",
+  "keywords": [
+  ],
+  "authors": [
+    "contato@totabraz.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor"
+  ],
+  "dependencies": {
+    "jqcloud2":"latest",
+    "jquery": "#~2.x",
+    "font-awesome": "fontawesome#~4.x",
+    "bootstrap-sass": "#~3.x",
+    "lightbox2": "latest",
+    "slick-carousel": "1.7.1"
+  },
+  "install": {
+    "base": "dist/vendors",
+    "path": {
+      "js": "{name}/js",
+      "css": "{name}/css",
+      "otf": "{name}/fonts",
+      "eot": "{name}/fonts",
+      "svg": "{name}/fonts",
+      "ttf": "{name}/fonts",
+      "woff": "{name}/fonts",
+      "woff2": "{name}/fonts",
+      "/(gif)|(png)|(jpg)$/": "{name}/images",
+      "scss": "{name}/sass"
+    },
+    "sources": {
+      "jqcloud2":[
+      "bower_components/jqcloud2/dist/jqcloud.min.js",
+      "bower_components/jqcloud2/dist/jqcloud.min.css"
+      ],
+      "font-awesome": [
+        "bower_components/font-awesome/css/*.min.css",
+        "bower_components/font-awesome/fonts/**"
+      ],
+      "bootstrap-sass": [
+        "bower_components/bootstrap-sass/assets/stylesheets/**",
+        "bower_components/bootstrap-sass/assets/javascripts/*.min.js"
+      ],
+      "owl.carousel": [
+        "bower_components/owl.carousel/dist/owl.carousel.min.js",
+        "bower_components/owl.carousel/dist/assets/ajax-loader.gif",
+        "bower_components/owl.carousel/dist/assets/owl.video.play.png",
+        "bower_components/owl.carousel/dist/assets/owl.carousel.min.css",
+        "bower_components/owl.carousel/dist/assets/owl.theme.default.min.css"
+      ]
+    }
+  }
+}

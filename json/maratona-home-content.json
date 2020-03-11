@@ -1,0 +1,53 @@
+{
+	"home":{
+		"header":{
+			"title":"Tema: O caminho para otimizar a Justiça",
+			"subtitle":"Inscrições: 06 a 19 de setembro de 2018"
+		},
+		"maratona":{
+			"title":"Maratona PJE",
+			"body":[
+				"A Maratona PJe 2018, tem como objetivo o desenvolvimento de aplicações satélites, módulos ou aplicativos para dispositivos móveis que sejam aderentes à denominada arquitetura 2.0 do sistema."
+			]
+		},
+		"premiacao":{
+			"title":"Premiação",
+			"body":[
+				"Todos os participantes receberão um diploma e medalhas de participação. Serão selecionados 3 (três) projetos vencedores, com as premiações divulgadas na fase de seleção dos projetos."
+			]
+		},
+		"calendario":{
+			"title":"Calendário",
+			"subtitle":"A Maratona PJe 2018 será realizada em 06 (seis) etapas:",
+			"body":[
+			]
+		},
+		"editais":{
+			"title":"Editais",
+			"body":[
+				{
+					"title":"Edital",
+					"link":"http://www.tjrn.jus.br/images/edital_maratona_pje.pdf",
+					"file":null
+				},
+				{
+					"title":"Retificação",
+					"link":null,
+					"file":"errata_01.pdf"
+				}
+			]
+		},
+		"etapas":{
+			"title":"Etapas",
+			"subtitle":"",
+			"body":[
+				"1ª etapa - 06 a 19/09 - Inscrição das equipes e submissão dos projetos",
+				"2ª etapa - Até 12/10 - Seleção dos projetos",
+				"3ª etapa - 22/10 - Aclimatação das equipes",
+				"4ª etapa - 07/12 - Entrega dos produtos",
+				"5ª etapa - 13 e 14/12 - Apresentação dos produtos",
+				"6ª etapa - 20/12 - Publicação do resultado e premiação"
+			]
+		}
+	}
+}

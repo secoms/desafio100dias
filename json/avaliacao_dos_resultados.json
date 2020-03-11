@@ -1,0 +1,28 @@
+{
+	"avaliacao_dos_resultados":{
+		"title":"Avaliação Dos Resultados ",
+		"body":[
+			"Os resultados serão avaliados de acordo com os conceitos, com a atribuição de notas de 0,00 (zero) a 10,00 (dez) pontos. Para a conferência dos pontos e atribuição das notas, serão considerados os dados do sistema GPSJUS aferidos nas datas inicial e final do <strong>Desafio 100 dias</strong>."
+		],
+		"avaliacoes": {
+			"title":"A avaliação está dividida da seguinte maneira:",
+			"body":[
+				"I: <strong>1,5 pontos</strong> para as unidades que cumprirem a <strong>Meta 1</strong> do CNJ.",
+				"II: <strong>1,5 pontos</strong> para as unidades que cumprirem a <strong>Meta 2</strong> do CNJ.",
+				"III: <strong>1,5 pontos</strong> para as unidades que cumprirem a <strong>Meta 4</strong> do CNJ.",
+				"IV: <strong>1,5 pontos</strong> para as unidades que cumprirem a <strong>Meta 6</strong> do CNJ.",
+				"V: <strong>2,0 pontos</strong> para as unidades que reduzirem em <strong>50% o número de processos conclusos para sentença</strong>.",
+				"VI: <strong>2,0 pontos</strong> para as unidades que obtiverem <strong>a quantidade de movimentos processuais (TPU’s) igual ou superior ao quádruplo do número de casos novos</strong> que ingressaram na unidade durante o período do concurso."
+			]
+		},
+		"observacoes": {
+			"title" : "<strong>Observações importantes:</strong>",
+			"body" : [
+			"1º: Para aferição do item VI serão considerados os movimentos com códigos 60, 123 (com complemento “Em grau de Recurso”), 246, 22, 848, 1061, 1051, 92 e 12282 das TPU´s.",
+			"2º: Para aferição de movimentação das sentenças proferidas serão considerados todos os códigos relacionados ao 193, com exceção de 10953, 196, 198, 200, 871 e 235 das TPU’s.",
+			"3º: As pontuações descritas nos itens I a IV somente serão atribuídas às unidades pelo cumprimento integral das metas.",
+			"4º: Para fins de desempate, serão considerados sucessivamente os seguintes critérios: 1º) O maior percentual de cumprimento da meta 1; 2º) O maior percentual de redução dos processos conclusos para sentença; 3º) O menor acervo no último dia do concurso, proporcional à distribuição processual média no ano corrente (casos novos)."
+			]
+		}
+	}
+}

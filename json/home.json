@@ -1,0 +1,115 @@
+{
+	"home":{
+		"grupos":{
+			"title":"Grupos",
+			"subtitle":"Para efeito de avaliação dos resultados e de premiação, as unidades judidiárias de primeiro grau e as Turmas Recursais foram divididas em grupos de competências, que concorreram entre si. Veja o resultado final de cada grupo:",
+			"last_text":"Diante da deliberação da comissão do concurso, os juizados que estavam com processos de metas 4 e 6 não serão considerados para efeito de pontuação no concurso.",
+			"body":[
+				{
+					"title":"Grupo 1",
+					"subtitle":"Comarcas de varas únicas",
+					"img":"pino_grupo_1.png",
+					"link":"odesafio?grp=1"
+				},{
+					"title":"Grupo 2",
+					"subtitle":"Comarcas do interior com 02 (duas) Varas",
+					"img":"pino_grupo_2.png",
+					"link":"odesafio?grp=2"
+				},{
+					"title":"Grupo 3",
+					"subtitle":"Comarcas do interior com 03 (três) Varas",
+					"img":"pino_grupo_3.png",
+					"link":"odesafio?grp=3"
+				},{
+					"title":"Grupo 4",
+					"subtitle":"Varas Cíveis das Comarcas de Natal, Mossoró e Parnamirim, inclusive aquelas com competência para os processos de sucessões",
+					"img":"pino_grupo_4.png",
+					"link":"odesafio?grp=4"
+				},{
+					"title":"Grupo 5",
+					"subtitle":"<strong>Subgrupo 1</strong> – Varas Criminais das Comarcas de Natal, Mossoró e Parnamirim",
+					"img":"pino_grupo_51.png",
+					"link":"odesafio?grp=51"
+				},{
+					"title":"Grupo 5",
+					"subtitle":"<strong>Subgrupo 2</strong> – Juizados de Violência Doméstica das Comarcas de Natal, Mossoró e Parnamirim",
+					"img":"pino_grupo_52.png",
+					"link":"odesafio?grp=52"
+				},{
+					"title":"Grupo 6",
+					"subtitle":"<strong>Subgrupo 1</strong> – Varas de Família das Comarcas de Natal, Mossoró e Parnamirim",
+					"img":"pino_grupo_6.png",
+					"link":"odesafio?grp=61"
+				},{
+					"title":"Grupo 6",
+					"subtitle":"<strong>Subgrupo 2</strong> – Varas da Infância e Juventude das Comarcas de Natal, Mossoró e Parnamirim",
+					"img":"pino_grupo_6.png",
+					"link":"odesafio?grp=62"
+				},{
+					"title":"Grupo 7",
+					"subtitle":"<strong>Subgrupo 1</strong> – Varas de Fazenda Pública das Comarcas de Natal;",
+					"img":"pino_grupo_7.png",
+					"link":"odesafio?grp=71"
+				},{
+					"title":"Grupo 7",
+					"subtitle":"<strong>Subgrupo 2</strong> – Varas de Fazenda Pública da Comarca de Mossoró e Parnamirim;",
+					"img":"pino_grupo_7.png",
+					"link":"odesafio?grp=72"
+				},{
+					"title":"Grupo 7",
+					"subtitle":"<strong>Subgrupo 3</strong> – Varas de Execução Fiscal da Comarca de Natal.",
+					"img":"pino_grupo_7.png",
+					"link":"odesafio?grp=73"
+				},{
+					"title":"Grupo 8",
+					"subtitle":"<br/><strong>Subgrupo 1</strong> – Juizados Especiais Cíveis, Criminais e da Fazenda Pública das Comarcas de Assú, Apodi, Areia Branca, Caicó, Ceará-Mirim, Currais Novos, João Câmara, Macaíba, Macau, Mossoró, Nova Cruz, Pau dos Ferros, Santa Cruz, São Gonçalo do Amarante - Juizado Especial Criminal da Comarca de Natal, Juizado Especial Criminal e da Fazenda Pública da Comarca de Parnamirim;",
+					"img":"pino_grupo_8.png",
+					"link":"odesafio?grp=81"
+				},{
+					"title":"Grupo 8",
+					"subtitle":"<strong>Subgrupo 2</strong> – Juizados Especiais Cíveis das Comarcas de Natal e Parnamirim;",
+					"img":"pino_grupo_8.png",
+					"link":"odesafio?grp=82"
+				},{
+					"title":"Grupo 8",
+					"subtitle":"<strong>Subgrupo 3</strong> – Juizado Especial da Fazenda Pública da Comarca de Natal;",
+					"img":"pino_grupo_8.png",
+					"link":"odesafio?grp=83"
+				},{
+					"title":"Grupo 8",
+					"subtitle":"<strong>Subgrupo 4</strong> – Turmas Recursais.",
+					"img":"pino_grupo_8.png",
+					"link":"odesafio?grp=84"
+				}
+			]
+		},
+		"eixos":{
+			"title":"Eixos",
+			"subtitle":"O <strong>Desafio 100 dias</strong> é dividido em dois eixos: <strong>Magistrados (Eixo 1)</strong> e <strong>Secretarias Judiciais (Eixo 2)</strong>. Cada eixo tem suas especificidades, sendo que:",
+			"body":[
+				"<strong>Relembre quais são as Metas Nacionais que fazem parte do Desafio 100 dias</strong>",
+				"<strong>Meta 1: Julgar mais processos que os distribuídos</strong>",
+				"<strong>Meta 2: Julgar processos mais antigos</strong>",
+				"80% dos processos distribuídos até 31/12/2014 no 1º grau, 80% dos processos distribuídos até 31/12/2015 no 2º grau, e 90% dos processos distribuídos até 31/12/2015 nos Juizados Especiais e Turmas Recursais.",
+				"<strong>Meta 4: Priorizar o julgamento dos processos relativos à corrupção e à improbidade administrativa</strong>",
+				"70% das ações de improbidade administrativa e das ações penais relacionadas a crimes contra a Administração Pública distribuídas até 31/12/2015, em especial a corrupção ativa e passiva, peculato em geral e concussão.",
+				"<strong>Meta 6: Priorizar o julgamento das ações coletivas</strong>",
+				"60% das ações coletivas distribuídas até 31/12/2015 no 1º grau, e 80% das ações coletivas distribuídas até 31/12/2016 no 2º grau."
+			],
+			"magistrados":{
+				"title":"Magistrados",
+				"img":"",
+				"body":[
+					"Os magistrados devem priorizar o julgamento dos processos que se enquadram nas metas 1, 2, 4 e 6 do Conselho Nacional de Justiça (CNJ), e de todos os processos conclusos e paralisados há mais de 100 dias."
+				]
+			},
+			"secretarias_judiciarias":{
+				"title":"Secretarias Judiciárias",
+				"img":"",
+				"body":[
+					"Os servidores das Secretarias Judiciárias devem priorizar os seguintes aspectos: a publicação das sentenças proferidas; a expedição de alvarás, RPV´s e precatórios; o cumprimento dos atos nos processos paralisados há mais de 100 dias; a baixa de processos; e o envio de processos em grau de recurso para o Tribunal de Justiça."
+				]
+			}
+		}
+	}
+}

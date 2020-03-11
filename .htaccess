@@ -1,0 +1,11 @@
+RewriteEngine On    # Turn on the rewriting engine	
+
+#Geral
+RewriteRule    ^en    index.php/en    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^br    index.php/br    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-_]+)/?$    index.php?pagina=$1    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-_]+)/?$    index2.php?pagina=$1    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-_]+)/?$    index.php?pagina=$1    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-_]+)/?$    index2.php?pagina=$1    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-]+)/([A-Za-z0-9-_]+)/?$  index.php?secao=$1&pagina=$2    [NC,L,QSA]    # Handle requests for "pet-care"
+RewriteRule    ^([A-Za-z0-9-]+)/([A-Za-z0-9-_]+)/?$  index2.php?secao=$1&pagina=$2    [NC,L,QSA]    # Handle requests for "pet-care"

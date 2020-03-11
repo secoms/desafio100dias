@@ -1,0 +1,25 @@
+{
+	"contato":{
+		"title":"Contato",
+		"telefone_title":"Informações",
+		"horario_normal":"",
+		"horario_feriado":"",
+		"telefone":"(84) 3616-6288",
+		"email":"maratonapje@tjrn.jus.br",
+		"end":"Endereço",
+		"end1":"",
+		"end2":"",
+		"instagram":{
+			"img":"fa fa-instagram",
+			"link":"https://www.instagram.com/tjrnoficial/",
+			"login":"@TJRNOficial",
+			"title":"Instagram do TJRN"
+		},
+		"facebook":{
+			"img":"fa fa-facebook",
+			"link":"https://www.facebook.com/tjrnoficial/",
+			"login":"@TJRNOficial",
+			"title":"Facebook do TJRN"
+		}
+	}
+}

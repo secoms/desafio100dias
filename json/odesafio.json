@@ -1,0 +1,195 @@
+{
+	"odesafio":{
+		"last_update":"Os relatórios de metas foram construídos com base no último dia 14/11/2018, que foi a data do último processamento dos dados.",
+		"1":{
+			"title":"Grupo 1",
+			"subtitle":"Comarcas de varas únicas",
+			"img":"pino_grupo_1.png",
+			"caminho":"caminho_1.png",
+			"link":"odesafio?grp=1",
+			"ranking": [
+"CARAÚBAS - VARA ÚNICA",
+"PARELHAS - VARA ÚNICA",
+"CAMPO GRANDE - VARA ÚNICA"
+			],
+			"link_afericao":"grupo_1.xlsx"
+		},
+		"2":{
+			"title":"Grupo 2",
+			"subtitle":"Comarcas do interior com 02 (duas) Varas",
+			"img":"pino_grupo_2.png",
+			"caminho":"caminho_2.png",
+			"link":"odesafio?grp=2",
+			"ranking": [
+"APODI - 1ª VARA",
+"CURRAIS NOVOS - 2ª VARA",
+"APODI - 2ª VARA"
+			],
+			"link_afericao":"grupo_2.xlsx"
+		},
+		"3":{
+			"title":"Grupo 3",
+			"subtitle":"Comarcas do interior com 03 (três) Varas",
+			"img":"pino_grupo_3.png",
+			"caminho":"caminho_3.png",
+			"link":"odesafio?grp=3",
+			"ranking": [
+"ASSÚ - 3ª VARA",
+"ASSÚ - 1ª VARA",
+"CAICÓ - 1ª VARA"
+			],
+			"link_afericao":"grupo_3.xlsx"
+		},
+		"4":{
+			"title":"Grupo 4",
+			"subtitle":"Varas Cíveis das Comarcas de Natal, Mossoró e Parnamirim, inclusive aquelas com competência para os processos de sucessões",
+			"img":"pino_grupo_4.png",
+			"caminho":"caminho_4.png",
+			"link":"odesafio?grp=4",
+			"ranking": [
+"NATAL - 3ª VARA CÍVEL",
+"NATAL - 5ª VARA CÍVEL",
+"NATAL - 15ª VARA CÍVEL"
+			],
+			"link_afericao":"grupo_4.xlsx"
+		},
+		"51":{
+			"title":"Grupo 5",
+			"subtitle":"Varas Criminais das Comarcas de Natal, Mossoró e Parnamirim",
+			"img":"pino_grupo_5.png",
+			"caminho":"caminho_51.png",
+			"link":"odesafio?grp=51",
+			"ranking": [
+"NATAL - 2ª VARA CRIMINAL",
+"NATAL - 8ª VARA CRIMINAL",
+"NATAL - 14ª VARA CRIMINAL"
+			],
+			"link_afericao":"grupo_5.xlsx"
+		},
+		"52":{
+			"title":"Grupo 5",
+			"subtitle":"Varas Criminais e Juizados de Violência Doméstica das Comarcas de Natal, Mossoró e Parnamirim",
+			"img":"pino_grupo_5.png",
+			"caminho":"caminho_52.png",
+			"link":"odesafio?grp=52",
+			"ranking": [
+"MOSSORÓ - VARA DO JUIZADO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER",
+"NATAL - 3º JUIZADO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER",
+"NATAL - 1º JUIZADO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER"
+			],
+			"link_afericao":"grupo_5.xlsx"
+		},
+		"61":{
+			"title":"Grupo 6",
+			"subtitle":"<strong>Subgrupo 1</strong> – Varas de Família das Comarcas de Natal, Mossoró e Parnamirim",
+			"img":"pino_grupo_6.png",
+			"caminho":"caminho_61.png",
+			"link":"odesafio?grp=61",
+			"ranking": [
+"PARNAMIRIM - 1ª VARA DE FAMÍLIA",
+"MOSSORÓ - 3ª VARA DE FAMÍLIA",
+"NATAL - 6ª VARA DE FAMÍLIA E SUCESSÕES"
+			],
+			"link_afericao":"grupo_6-1.xlsx"
+		},
+		"62":{
+			"title":"Grupo 6",
+			"subtitle":"<strong>Subgrupo 2</strong> – Varas da Infância e Juventude das Comarcas de Natal, Mossoró e Parnamirim",
+			"img":"pino_grupo_6.png",
+			"caminho":"caminho_62.png",
+			"link":"odesafio?grp=6",
+			"ranking": [
+"MOSSORÓ - VARA DA INFÂNCIA E JUVENTUDE",
+"PARNAMIRIM - VARA DE INFÂNCIA, JUVENTUDE E DO IDOSO",
+"NATAL - 2ª VARA DA INFÂNCIA E JUVENTUDE"
+			],
+			"link_afericao":"grupo_6-2.xlsx"
+		},
+		"71":{
+			"title":"Grupo 7",
+			"subtitle":"<strong>Subgrupo 1</strong> – Varas de Fazenda Pública das Comarcas de Natal;",
+			"img":"pino_grupo_7.png",
+			"caminho":"caminho_71.png",
+			"link":"odesafio?grp=71",
+			"ranking": [
+"NATAL - 1ª VARA DA FAZENDA PÚBLICA",
+"NATAL - 6ª VARA DA FAZENDA PÚBLICA"
+			],
+			"link_afericao":"grupo_7-1.xlsx"
+		},
+		"72":{
+			"title":"Grupo 7",
+			"subtitle":"<strong>Subgrupo 2</strong> – Varas de Fazenda Pública da Comarca de Mossoró e Parnamirim;",
+			"img":"pino_grupo_7.png",
+			"caminho":"caminho_72.png",
+			"link":"odesafio?grp=72",
+			"ranking": [
+"MOSSORÓ - 1ª VARA DA FAZENDA PÚBLICA"
+			],
+			"link_afericao":"grupo_7-2.xlsx"
+		},
+		"73":{
+			"title":"Grupo 7",
+			"subtitle":"<strong>Subgrupo 3</strong> – Varas de Execução Fiscal da Comarca de Natal.",
+			"img":"pino_grupo_7.png",
+			"caminho":"caminho_73.png",
+			"link":"odesafio?grp=73",
+			"ranking": [
+"NATAL - 5ª VARA DE EXECUÇÃO FISCAL E TRIBUTÁRIA",
+"NATAL - 2ª VARA DE EXECUÇÃO FISCAL E TRIBUTÁRIA"
+			],
+			"link_afericao":"grupo_7-3.xlsx"
+		},
+		"81":{
+			"title":"Grupo 8",
+			"subtitle":"<br/><strong>Subgrupo 1</strong> - Juizados Especiais Cíveis, Criminais e da Fazenda Pública das Comarcas de Assú, Apodi, Areia Branca, Caicó, Ceará-Mirim, Currais Novos, João Câmara, Macaíba, Macau, Mossoró, Nova Cruz, Pau dos Ferros, Santa Cruz, São Gonçalo do Amarante - Juizado Especial Criminal da Comarca de Natal, Juizado Especial Criminal e da Fazenda Pública da Comarca de Parnamirim;",
+			"img":"pino_grupo_8.png",
+			"caminho":"caminho_81.png",
+			"link":"odesafio?grp=81",
+			"ranking": [
+"CURRAIS NOVOS - JUIZADO ESPECIAL CÍVEL, CRIMINAL E DA FAZENDA PÚBLICA",
+"ASSÚ - JUIZADO ESPECIAL CÍVEL, CRIMINAL E DA FAZENDA PÚBLICA",
+"APODI - JUIZADO ESPECIAL CÍVEL, CRIMINAL E DA FAZENDA PÚBLICA"
+			],
+			"link_afericao":"grupo_8-1.xlsx"
+		},
+		"82":{
+			"title":"Grupo 8",
+			"subtitle":"<strong>Subgrupo 2</strong> – Juizados Especiais Cíveis das Comarcas de Natal e Parnamirim;",
+			"img":"pino_grupo_8.png",
+			"caminho":"caminho_82.png",
+			"link":"odesafio?grp=82",
+			"ranking": [
+"PARNAMIRIM - 1º JUIZADO ESPECIAL CÍVEL, CRIMINAL E DA FAZENDA PÚBLICA",
+"NATAL - 15º JUIZADO ESPECIAL CÍVEL",
+"NATAL - 14º JUIZADO ESPECIAL CÍVEL"
+			],
+			"link_afericao":"grupo_8-2.xlsx"
+		},
+		"83":{
+			"title":"Grupo 8",
+			"subtitle":"<strong>Subgrupo 3</strong> – Juizado Especial da Fazenda Pública da Comarca de Natal; <br/>",
+			"img":"pino_grupo_8.png",
+			"caminho":"caminho_83.png",
+			"link":"odesafio?grp=83",
+			"ranking": [
+"NATAL - 6º JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+"NATAL - 2º JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+"NATAL - 3º JUIZADO ESPECIAL DA FAZENDA PÚBLICA"
+			],
+			"link_afericao":"grupo_8-3.xlsx"
+		},
+		"84":{
+			"title":"Grupo 8",
+			"subtitle":"<strong>Subgrupo 4</strong> – Turmas Recursais.",
+			"img":"pino_grupo_8.png",
+			"caminho":"",
+			"link":"",
+			"ranking": [
+				"Este grupo não teve vencedores"
+			],
+			"link_afericao":""
+		}
+		
+	}
+}

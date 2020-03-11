@@ -1,0 +1,28 @@
+{
+	"premiacao":{
+		"title":"Premiação",
+		"body":[
+			"Receberão certificado de reconhecimento de alcance de resultados as unidades judiciárias que obtiverem nota mínima de 70% do total de pontos possíveis ao respectivo grupo.",
+			"Os servidores das unidades que se posicionarem em primeiro, segundo e terceiro lugares, em cada grupo, também serão premiados com anotação na ficha funcional, prêmio pecuniário e folgas compensatórias nos seguintes termos: "
+		],
+		"premios":[
+			{
+				"title":"Primeiros Lugares",
+				"body":"R$ 1.000,00 (mil reais) e 2 dias de folgas compensatórias"
+			},
+			{
+				"title":"Segundos Lugares",
+				"body":"3 dias de folgas compensatórias;"
+			},
+			{
+				"title":"Terceiros Lugares",
+				"body":"2 dias de folgas compensatórias."
+			},
+			{
+				"title":"Magistrados",
+				"body":"Os magistrados com jurisdição nas unidades que se posicionarem em primeiro, segundo e terceiro lugares, de cada grupo, serão premiados com anotação na ficha funcional."
+			}
+		]
+	}
+
+}
